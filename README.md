@@ -1,14 +1,48 @@
-Esse site é a tela inicial do cadecommerce é a tela inicial para poder entrar so precisa colocar seu gmail, senha depois tera o outra tela onde colocara seus dados pessoais e de endereço que é o cadecommerce.
+# Tela de login 
+Esse trabalho  euma continuação do ano passado, onde usamos javaScript para melhorar ele.
+Foi usado o javaScript para quando a pessoa colocar a senha o Gmail incirretos tera uma mensagen informando tambem quado não preincherem algum dos campos tera uma mensagem onde mostrara que não preincheo.
 
+![](login.png)
 
+## tecnologias usadas 
 
-## Elementos usados 
+### javaScrpt 
+usamos javaScript para fazer fazer modificações no site 
 
-* html
-* css
-* div
-* input
-* form
+## elementos:
+* document
+* funtion
+* else
+* if
+* else 
+
+## HTML 
+o HTML é usado para criar a estructura basica do site, contendo os elementos basicos como:
 * body
+* html
+* div 
+* label
+* buttom
+* form
+* meta 
+* link
+* head 
+* title
+* h1, h2, h3 ...
+
+![](html.png)
+
+## css
+o css foi usado para dar mais um poco de esilo no site tendo usado elementos como:
+
+* padding-left, padding-top
+* top, left, font-size, font-weight, spacing,color.
+* width
+* border
+* border-radius
+
+![](css.png)
+
+
 
 
