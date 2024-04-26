@@ -7,7 +7,7 @@ Foi usado o javaScript para quando a pessoa colocar a senha o Gmail incirretos t
 ## tecnologias usadas 
 
 ### javaScrpt 
-usamos javaScript para fazer fazer modificações no site 
+usamos javaScript para fazer fazer modificações no site  como: toda veis que alguem colocar a senha ou gmail errado recevera uma mensagem e tambem quando não prenxer os campos.
 
 ## elementos:
 * document
@@ -17,7 +17,7 @@ usamos javaScript para fazer fazer modificações no site
 * else 
 
 ## HTML 
-o HTML é usado para criar a estructura basica do site, contendo os elementos basicos como:
+o HTML é usado para criar a estructura basica do site, contendo os elementos basicos aprendidos nas aulas de DSW
 * body
 * html
 * div 

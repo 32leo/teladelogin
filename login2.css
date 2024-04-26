@@ -1,0 +1,12 @@
+body{
+    background-image:url(pexels-felixmittermeier-956999.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    }
+    h1{
+        background-position: 100pt;
+        border-left: 100px;
+        border-top: 100%;
+    }
+    
